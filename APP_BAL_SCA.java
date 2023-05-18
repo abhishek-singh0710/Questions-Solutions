@@ -11,7 +11,7 @@ class Codechef
     {
         String y="YES";
         String h="NO";
-        while(m%2==0)
+        while(m%2==0)  //Checking if n is divisible by the smallest multiple of 2 in m
         {
             m=m/2;
         }
